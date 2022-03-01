@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation set furth by the kinges maiesty, with the aduise of his most honorable priuey counsail, declaring his graces determinacion, concerning the amendement of his highnes coyne, and also to admonish such of his subiectes, as be engrossers of fermes, victualles and other thinges. &amp;c. and the inhauncers of al prices of the same, and for the amendement of their gredy and insaciable doinges, &amp;c. the .xi. day of May in the .v. yere of his moste prosperous reigne.</title>
+            <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1551</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12633</idno>
+            <idno type="STC">STC 7837</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.b.3[2]</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.7614[204]</idno>
+            <idno type="EEBO-CITATION">99892140</idno>
+            <idno type="PROQUEST">ocm99892140</idno>
+            <idno type="VID">188938</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12633)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188938)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:2[2]; C14:1[80])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation set furth by the kinges maiesty, with the aduise of his most honorable priuey counsail, declaring his graces determinacion, concerning the amendement of his highnes coyne, and also to admonish such of his subiectes, as be engrossers of fermes, victualles and other thinges. &amp;c. and the inhauncers of al prices of the same, and for the amendement of their gredy and insaciable doinges, &amp;c. the .xi. day of May in the .v. yere of his moste prosperous reigne.</title>
+                  <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+                  <author>Edward VI, King of England, 1537-1553.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>Richardus Grafton typographus Regius excudebat,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>mense Maij. A.M.D.LI. [1551].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Refers to Proc. 30 April, 1551 ... that from 31 August the 1s. should be current at 9d. and the groat at 3d. This order has been abused and misinterpreted. The coin shall be purified. Engrossers of Farms, victual, grain, &amp;c., and wool, who are chief causers of the dearth, are threatened with displeasure. Offenders will be punished by the King, and are not to be moved against by private persons." -- Steele.</note>
+                  <note>Caption title.</note>
+                  <note>Initial.</note>
+                  <note>Place of publication from STC, rest of imprint from colophon.</note>
+                  <note>After imprint: Cum priuilegio ad imprimendum solum.</note>
+                  <note>Steele notation: understanding sire 2)shal of.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:188938:1" rendition="simple:additions"/>
+            <head>A proclamation ſet furth by the kinges maieſty, with the aduiſe of his moſt honorable priuey counſail<g ref="char:punc">▪</g> declaring his graces determinacion, concerning the amendement of his highnes coyne, and alſo to admoniſh ſuch of his ſubiectes, as be engroſſers of Fermes, victualles and other thinges. &amp;c. and the inhauncers of al prices of theſame, and for the amendement of their gredy and inſatiable doinges, &amp;c. the .xj. day of May in the .v. yere of his moſte proſperous reigne.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He kinges moſt excellent Maieſtie, hauing of late ſeaſon vnderſtanding and knowledge, by diuerſe and ſundry conſultacions of the Lordes, and others of his priuie counſaill, how neceſſary and beneficiall, it ſhould be for the wealth of his hole Realme, to haue his Coyne reduced to finenes<g ref="char:punc">▪</g> whiche hath bene made bace from the beginning of the latter Warres in the time of his maieſties father, of moſt famous memory, and ſo remai<g ref="char:EOLhyphen"/>ned by continuance of the like: hath had a greate, godly, and earneſt de<g ref="char:EOLhyphen"/>ſire, daily increaſing in his maieſties moſt noble and godly harte, to be<g ref="char:EOLhyphen"/>ginne and attempt ſome towardenes, to ſo greate a benefite, and ſo to procede and achieue, with aſmuche his owne maieſties loſſe therin as poſſible were fitte for hym to ſuſteine. Wherefore, of a moſte godly minde towardes his people, and a moſt feruent deſire, to begin to do this notable greate benefite, for the whiche all good ſubiectes, hath of late, as it were with groninges longed, his Maieſty, with the aduiſe of his counſaill, who, with greate reaſons, were perſwaded to aduiſe his maieſtie therto, cauſed his determi<g ref="char:EOLhyphen"/>nation, to be publiſhed by a proclamation bearing date<g ref="char:punc">▪</g> the laſt day of Aprill laſt, that from the laſt daie of Auguſt nexte following, the ſhilling coyned and ſet furth by his maieſty, ſhoulde be curraunt for. ix. d. ſterf. and no more, and the grote for. iii. d. as further appereth by the ſame proclamation, without the whi<g ref="char:EOLhyphen"/>che meanes, his maieſty coulde neuer poſſible attempt or come nere to ſet furthe and make the Coyne of fine ſiluer according to his good deſire, and as in dede ordinarely, his maieſty from the beginning of the conſultacion hath ment, and doth certainely meane. Yet neuertheleſſe, ſuche is the malice and naughty na<g ref="char:EOLhyphen"/>ture of a certain kinde of people, that liue onely for themſelfes, &amp; as it ſemeth by their doinges, neither reſ<g ref="char:EOLhyphen"/>pect God, King, the ſuertye of his maieſties Croune, nor any other Chriſtian creature, but goyng about to eate and deuoure, aſwell theſtate of Nobilitie<g ref="char:punc">▪</g> as the lower ſorte, beyng Seruing men, Artificers, Han<g ref="char:EOLhyphen"/>dicraftes, poore Huſbondemen, laborers and ſuch like, and further maliciouſly ouerwharting and hinde<g ref="char:EOLhyphen"/>ring all good purpoſes of the kinges maieſtie, and his counſaill, trauailing to do to the common wealthe good, and eſpecially, when they perceaue any thing purpoſed, to amend the vnreaſonable prices of victu<g ref="char:EOLhyphen"/>all, and ſuche neceſſary thinges for mens ſuſtenance, that as it is come to his Maieſties knowledge, and his counſaill, by the information of diuerſe credible perſons from ſundry partes of this his Realme, ſince the aforeſaide proclamation was publiſhed, whiche was the very ordinarye and neceſſary beginning of a manifeſt amendement of the coine, the prices of victualles, Wares &amp; ſuch like thinges, be purpoſely in<g ref="char:EOLhyphen"/>haunced beyond all expectacion, and the gratious meaning of the kinges Maieſtie, and his counſaill vt<g ref="char:EOLhyphen"/>terly peruerted, and ſiniſterly abuſed, theſame moſt manifeſtly comming of the deueliſhe<g ref="char:punc">▪</g> malice, and ſli<g ref="char:EOLhyphen"/>ght of the foreſaide kinde of naughty people, iniurious to the whole common wealth: which thinges con<g ref="char:EOLhyphen"/>ſidered, his Maieſty hauing the Swearde not in vaine committed to him of God, and with the ſame as a miniſter of the almighty, the very indignacion and plages from heauen to fall where his Swearde ſhall ſtrike, cannot, ne may not, without thoffence of God, ſe and ſuffer ſuche lewde perſones as wilfully be the cauſers hereof remaine vnpuniſhed to their owne dampnations, and the diſtruccion of others. Wherfore his Maieſte, meaning not in ire<g ref="char:punc">▪</g> or paſſion, to execute his indignation, but iuſtly and with good grounde, hathe firſte by the aduiſe of his counſaill, thought mete to admoniſhe all kinde of people in their degrees, and to let theym clerely vnderſtand his pleaſure and determinacion in this behalfe, ſo as whoſoeuer ſhal offend, theſame ſhall not faile of ſharpe and due puiſhment for their offences.</p>
+            <pb facs="tcp:188938:2"/>
+            <pb facs="tcp:188938:2" rendition="simple:additions"/>
+            <p> And therefore firſt of all, to all ſuche, as either wilfully or ignorantly, hath miſtaken his Maieſtes good meaning vpon the former proclamatio<g ref="char:cmbAbbrStroke">̄</g>, for the abacing of money, his Maieſtie declareth his good and gracious meaning, and determinate purpoſe, by the aduiſe of his counſaill, to be therby to amend his coine, &amp; to reduce it to finenes of ſiluer, although theſame ſhalbe moſt of al, without al compariſon to his maieſtes loſſe and detrime<g ref="char:cmbAbbrStroke">̄</g>t, and yet to the benefite of his ſubiectes &amp; the honor of the realme. And next to ſuche Fermours<g ref="char:punc">▪</g> Graſiers, and Shepe Maſters, which by vnreaſonable and fraudulent ingroſſing of Fermes, Graine, Victuall, aſwell Butter and Cheſe, as other groſſer thinges, as Woolle and ſuche like, Wood, Cole, and other thinges pertaining to the dayly ſuſtenance of man, and enhaunſing the prices of theſame, and by manifeſt decaiyng of tounes and tillage, exceſſiue increaſing of ſhepe, contrary to diuers good lawes and ſtatutes of this realme prouided for theſe caces, not vnknowen to the offendors therin Whiche kinde of perſones in dede his maieſty and his counſaill iudgeth to be the principall occaſions of theſe almoſt vncauſable dearthes. His maieſtie pronounceth &amp; threatneth, that if they furthewth ſeace not their gredy, vnlaufull, and vnnaturall practizes, colored with craftes and ſubtelties to auoyde and deceaue the meaning of the lawes and all honeſty, they ſhal ſuffre with his extreme indignation the Iu<g ref="char:EOLhyphen"/>ſtice of his lawes to the vttermoſt, to the terror of al ſuche as being thus often gentely admoniſhed haue neuer amended.</p>
+            <p>Thus muche doth his maieſte in this behalf, partely of clemency of nature, admoniſh, that would haue no cauſe to exerciſe extremitie: partely (if the naughtines of his ſubiecte, ſhal geue him cauſe) yet by this admonitio<g ref="char:cmbAbbrStroke">̄</g> the puniſhme<g ref="char:cmbAbbrStroke">̄</g>t ſhalbe more iuſt and neceſſary. And although his maieſty conſidereth howe conuenie<g ref="char:cmbAbbrStroke">̄</g>t it is for his office, hauing indifferent charge and care ouer all maner his ſubiectes, not onely to reprehend the faultes of Offendors, but alſo to puniſhe them ſeuerely, yet becauſe of late yeres, the lower ſorte of people, lacking in dede in that parte, all maner of reaſon, and beyng like to thoſe ſicke madmen that either will haue no Phiſicke, or els will be their owne Phiſitions, haue preſumpteouſly taken vpon them thoffice of his maieſty, both in reprehending of their ſuperiors, and attempting redres of thinges after their own phantaſies, with force, and contrary to the due obedience of good Subiectes towardes god and man. Therfore alſo his maieſtie, likewiſe pronounceth and declareth vnto them, and euery of them, that if they ſhal excede their duties either in reprehending or attempting any maner of re<g ref="char:EOLhyphen"/>medie or redreſſe, otherwiſe then ſhall ſtand with the lawes and order of the realme: His Maieſty wil not faile but miniſter vnto them ſharp terror of his ſwearde and Lawes, whiche, as they be well prouided of late for ſuche offendors, ſo ſhal they not lacke diligent and due execution.</p>
+            <closer>God ſaue the King</closer>
+         </div>
+      </body>
+      <back>
+         <div xml:lang="lat" type="colophon">
+            <p>
+               <hi>RICHARDVS GRAFTON</hi> typographus Regius excudebat<g ref="char:punc">▪</g> Menſe Maij. A. M. D. LI.</p>
+         </div>
+         <div xml:lang="lat" type="license">
+            <p>Cum priuilegio ad imprimendum ſolum.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
